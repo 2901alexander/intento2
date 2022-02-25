@@ -1,0 +1,15 @@
+.container{
+    width: 600px;
+    height: 300px;
+    border: solid  black 1px;
+    background-color: blue;
+    margin: auto;
+    text-align: center;
+}
+.title{
+    color: aqua;
+    font-size: 30px;
+}
+.parrafo1{
+    color: black;
+}
